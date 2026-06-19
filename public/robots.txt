@@ -1,0 +1,3 @@
+User-agent: *
+Allow:/
+Sitemap: https://mi-proyecto-seo-sigma.vercel.app/sitemap.xml
